@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KarollMarquez
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning CSS y JavaScript
