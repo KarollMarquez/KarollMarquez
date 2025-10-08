@@ -27,7 +27,9 @@ Currently developing my portfolio website while working on personal frontend pro
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'KarollMarquez' with your actual GitHub username in the URL below -->
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KarollMarquez's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=KarollMarquez&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+<div align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KarollMarquez's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=KarollMarquez&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+</div>
 
 ## 💻 Tech Stack
 
